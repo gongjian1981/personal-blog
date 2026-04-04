@@ -1,5 +1,5 @@
 ---
-title: "Day 2 of Learning Go\: Variables, Types, and CLI Input"
+title: "Day 2 of Learning Go: Variables, Types, and CLI Input"
 slug: learning-go-day-02
 author: David
 pubDate: 2026-04-02 23:55
