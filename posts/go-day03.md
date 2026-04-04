@@ -22,6 +22,7 @@ Today's knowelege is quite simple:
     // body
   }
   ```
+  
 - Parentheses are unnecessary and not idiomatic
   
   ```

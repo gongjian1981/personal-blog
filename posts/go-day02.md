@@ -29,7 +29,6 @@ Today's knowelege is quite simple:
    
    to let Go infer the type automatically
 
-### 
 
 ### Data Type
 
@@ -47,9 +46,9 @@ basic data types:
 
 ### Cli Input
 
-use `fmt.Scan()` to get user input
+ - use `fmt.Scan()` to get user input
 
-the parameter should be a pointer, so use `&` in front of the varibale
+ - the parameter should be a pointer, so use `&` in front of the varibale
 
 
 
@@ -64,7 +63,3 @@ use `fmt.Printf()` to format output, common format verbs:
 - %f -> float
 
 - %v -> any type(generic)
-
-
-
-
