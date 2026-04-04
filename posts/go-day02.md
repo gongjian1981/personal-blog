@@ -1,11 +1,11 @@
-```yaml
+---
 title: Day 2 of Learning Go: Variables, Types, and CLI Input
 slug: learning-go-day-02
 author: David
-pubDate: 2026-04-02 11:55
-modDate: 2026-04-02 11:55
+pubDate: 2026-04-02 23:55
+modDate: 2026-04-02 23:55
 categories: ["Tech", "Go"]
-```
+---
 
 Today's knowelege is quite simple:
 

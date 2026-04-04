@@ -1,11 +1,11 @@
-```yaml
+---
 title: Day 3: control flow with if, switch, and for loop
 slug: learning-go-day-03
 author: David
 pubDate: 2026-04-03 23:35
 modDate: 2026-04-03 23:35
 categories: ["Tech", "Go"]
-```
+---
 
 Today's knowelege is quite simple:
 
