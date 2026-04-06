@@ -67,9 +67,9 @@ This pattern is fundamental for filtering and transformation.
 Subtle Bug: Slice Aliasing
 
 Initial implementation
-
+```
 newArray := nums[0:0]
-
+```
 At first glance, this looks like an efficient way to reuse memory. However, this introduces aliasing: both slices share the same underlying array.
 
 Consequence
